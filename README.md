@@ -1,2 +1,2 @@
-# nytbestsellers
-NYT Best Sellers Book Search Application
+# nytServer
+NYT Best Sellers Server
